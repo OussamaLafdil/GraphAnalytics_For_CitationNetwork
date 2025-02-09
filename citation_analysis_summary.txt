@@ -1,0 +1,20 @@
+Citation Data Analysis Summary
+==============================
+
+Total papers: 1260653
+Year range: 0 - 2005
+Average citations: 31.92
+Median citations: 6.0
+Maximum citations: 48327
+Average authors per paper: 2.39
+Author-citation correlation: 0.021
+
+Document Type Distribution:
+Conference: 557704 (44.24%)
+Journal: 543164 (43.09%)
+Repository: 9832 (0.78%)
+Book: 5487 (0.44%)
+Patent: 349 (0.03%)
+BookChapter: 125 (0.01%)
+Dataset: 9 (0.00%)
+
