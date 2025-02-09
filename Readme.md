@@ -24,3 +24,7 @@ to obtain the csv file (output_filtered_complete.csv), we have to processes a la
 
 5. **Final output**:
    - The script will produce a single CSV file: `output_filtered_complete.csv`.
+
+
+
+the main code of the algorithms and exploration is in the `main.ipynb` notebook.
